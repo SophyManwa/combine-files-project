@@ -1,6 +1,6 @@
-# Combine-files-project
+# Combine-files-project using python
 
-This project combines multiple CSV / Excel files using Python and Pandas.
+This project combines multiple CSV / Excel files using Python.
 
 ## Prerequisites
 
