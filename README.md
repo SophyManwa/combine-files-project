@@ -15,7 +15,10 @@ This project combines multiple CSV / Excel files using Python and Pandas.
 
 1. Place your input CSV and Excel files in the `data/input/` directory.
 2. Run the Python script:
-
+ -For CSV files
     ```shell
-    python scripts/combine_files.py
-   
+    python scripts/Py_combine_files_csv.py
+
+-For Excel Files
+   ```shell
+    python scripts/Py_combine_files_excel.py
