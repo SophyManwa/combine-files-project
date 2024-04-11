@@ -3,8 +3,8 @@ import os
 import pandas as pd
 
 # Define the path to the input and output directories
-input_path = r'C:\Users\Administrator\Documents\Python Automation\Data\Input'
-output_path = r'C:\Users\Administrator\Documents\Python Automation\Data\Output'
+input_path = r'Data\Input'
+output_path = r'Data\Output'
 
 # Read all Excel files into a list of DataFrames
 df = []
